@@ -5,6 +5,7 @@
 <img width="1200" height="615" alt="image" src="https://github.com/user-attachments/assets/c5daef8e-406b-4512-93d6-172199be31e7" />
 https://www.tinkercad.com/things/aVXrEN2yElH-ultrasonic-sensor
 https://www.tinkercad.com/things/1BkmYzxsV64-radar
+<img width="818" height="522" alt="image" src="https://github.com/user-attachments/assets/39efcb52-f272-4508-b9ef-be513b7f5bde" />
 
 
 
