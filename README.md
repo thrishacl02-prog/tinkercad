@@ -1,1 +1,1 @@
-![Screenshot_8-2-2026_20114_www tinkercad com](https://github.com/user-attachments/assets/e73f6836-0c8b-4c89-93ef-4ffa6a46d9a5)
+![Screenshot_8-2-2026_20114_www tinkercad com](https://github.com/user-attachments/assets/5aa16d44-f685-4114-b252-39c5880dcb9e)
